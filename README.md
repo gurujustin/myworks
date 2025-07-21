@@ -310,4 +310,5 @@ DEX & token launchpad on EVM networks.
   - It has token creator, token multi-sender and token locker.
 - Github repo: <a href="https://github.com/relforce/duckstail-frontend" target="_blank">FE code</a>
 
+<hr />
 In addition, I have developed and launched many other projects. Whatever project you want, I can develop it. If you are interested, please contact me here. ❤️ https://t.me/gurujustin
