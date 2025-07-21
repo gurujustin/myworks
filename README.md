@@ -5,7 +5,7 @@ You can check out some of my previous work here. Some projects (repositories) ar
 <h3><u><strong><i>Pump.fun - Hotcurve</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
-<img align="right" height="200px" src="https://github.com/gurujustin/myworks/assets/hotcurve.png">
+<img align="right" height="200px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/hotcurve.png">
 This is pump.fun project on EVM networks. Launch a coin that is instantly tradable without having to seed liquidity. </br>
 </br>
 * Built frontend/backend for token create, market create.</br>
@@ -19,7 +19,7 @@ This is pump.fun project on EVM networks. Launch a coin that is instantly tradab
 <h3><u><strong><i>Pump.fun - PattiePump</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height="200px" src="https://github.com/gurujustin/myworks/assets/pattie.png">
+<img align="right" height="200px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/pattie.png">
 This is pump.fun project on Solana network. Launch a coin that is instantly tradable without having to seed liquidity. </br>
 </br>
 * Built frontend/backend for spl token create, market create.</br>
@@ -35,7 +35,7 @@ This is pump.fun project on Solana network. Launch a coin that is instantly trad
 <hr />
 
 This is a cross chain swap which support multichain. It uses lifi protocol.
-<img align="right" height="200px" src="https://github.com/gurujustin/myworks/assets/simplebridge.png">
+<img align="right" height="200px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/simplebridge.png">
 
 I used lifi protocol for simple bridge. I can make cross chain swap using lifi, rubic, layerzero and wormhole.
 - Live: <a href="https://bridge-aggregator-eight.vercel.app/">BMP BRC20</a>
@@ -46,7 +46,7 @@ I used lifi protocol for simple bridge. I can make cross chain swap using lifi, 
 <h3><u><strong><i>Valhalla Fun</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "250px" src="https://github.com/gurujustin/myworks/assets/valhalla.png" >
+<img align="right" height = "250px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/valhalla.png" >
 
 This is the Jackpot&coinflip game by using Sol and meme coins on Solana. On Jackpot, the spin result will be randomized fairly. The win possibility depends on staked amount. On coinflip, 2 users play together and one user will get all staked.
 
@@ -81,7 +81,7 @@ To be precise, I built BE on my side and worked with FE representatives to fully
 <h3><u><strong><i>Zino</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
-<img align="right" height = "250px" src="https://github.com/gurujustin/myworks/assets/zino.png" >
+<img align="right" height = "250px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/zino.png" >
 
 The Zynvous has perpetual trading, staking and lending&borrowing.
 
@@ -95,7 +95,7 @@ The Zynvous has perpetual trading, staking and lending&borrowing.
 <h3><u><strong><i>Autopumpx</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "250px" src="https://github.com/gurujustin/myworks/assets/autopumpx.png" >
+<img align="right" height = "250px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/autopumpx.png" >
 
 Autopumpx is bot which launch and do dev buy for pump fun and letsbonk fun. And user can select trigger point which means selling point.
 
@@ -114,7 +114,7 @@ In addition, I can provide volume bot, telegram bot, notification bot, copy trad
 
 This is dTAO staking and dex(uni v3) on bittensor network.
 
-<img align="right" width="400px" src="https://github.com/gurujustin/myworks/assets/hotkeyswap.png">
+<img align="right" width="400px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/hotkeyswap.png">
 Users can stake TAO to get alpha token on subnets. Also it's the first dex on bittensor network.
 
 Attended this project as a fullstack blockchain developer.
@@ -126,7 +126,7 @@ Attended this project as a fullstack blockchain developer.
 <h3><u><strong><i>MillionRush</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
-<img align="right" height="250px" src="https://github.com/gurujustin/myworks/assets/millionrush.png">
+<img align="right" height="250px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/millionrush.png">
 
 This is one kind of Jackpot game.😜.
 
@@ -141,7 +141,7 @@ There are 2 types of pools here: Time pool and Tx pool. On time pool, the last p
 <h3><u><strong><i>CatiCorn ICO(presale)</i></strong></u> &nbsp;(Solana/EVM)</h3>
 <hr />
 
-<img align="right" height = "250px" src="https://github.com/gurujustin/myworks/assets/caticorn.png" >
+<img align="right" height = "250px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/caticorn.png" >
 
 The Caticorn ICO is one for memecoin on Ethereum/BSC/Polygon. It has multi-steps and each step has its own period and hardcap.
 
@@ -173,7 +173,7 @@ This is the Coinflip game for Solana network
 <h3><u><strong><i>Perfect Vault</i></strong></u> &nbsp;(Arbitrum)</h3>
 <hr />
 
-<img align="right" height = "200px" src="https://github.com/gurujustin/myworks/assets/perfectvault.png" >
+<img align="right" height = "200px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/perfectvault.png" >
 
 
 It's a Decentralized, Multichain Yield Optimizer that allows its users to earn compound interest on their crypto holdings. Perfect vault earns you the highest APYs with safety and efficiency in mind.
@@ -186,7 +186,7 @@ It's a Decentralized, Multichain Yield Optimizer that allows its users to earn c
 <h3><u><strong><i>Hodlx</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
-<img align="right" width = "350px" src="https://github.com/gurujustin/myworks/assets/hodlx.png" >
+<img align="right" width = "350px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/hodlx.png" >
 
 30% (30 Million) of the total DUNK token supply is allocated to the Club Key NFTs, which act as the primary investment into the Seattle SuperKongs Club. In return for the early investment into the SuperKongs, Club Key NFT holders are given a majority percentage of the DUNK token supply. The Club Key NFTs must be staked
 to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
@@ -204,7 +204,7 @@ to access the DUNK token distribution. The NFT staking mechanism allows the DUNK
 <h3><u><strong><i>Sherex Fun</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "180px" src="https://github.com/gurujustin/myworks/assets/sherex.png" >
+<img align="right" height = "180px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/sherex.png" >
 
 Dex and Launch lab using raydium launch lab sdk like letsbonk fun.
 
@@ -231,7 +231,7 @@ Now two things can happen (already coded in compound). Interest is accumulating,
 <h3><u><strong><i>USA Raffle</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "220px" src="https://github.com/gurujustin/myworks/assets/usaraffle.png" >
+<img align="right" height = "220px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/usaraffle.png" >
 
 Casting your Vote Raffle Entry with VFP Raffle Events couldn’t be easier!
 
@@ -244,7 +244,7 @@ Casting your Vote Raffle Entry with VFP Raffle Events couldn’t be easier!
 <h3><u><strong><i>AXOL Sweep</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "150px" src="https://github.com/gurujustin/myworks/assets/axol.png" >
+<img align="right" height = "150px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/axol.png" >
 
 Sweep your dust and unwanted tokens into AXOL with AxolSweep!
 
@@ -256,7 +256,7 @@ Sweep your dust and unwanted tokens into AXOL with AxolSweep!
 
 Solana token 2022 launchpad ^_____^
 
-<img align="right" width="300px" src="https://github.com/gurujustin/myworks/assets/launchpad.png">
+<img align="right" width="300px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/launchpad.png">
 
 - Live: <a href="https://solpop.onrender.com/">Solana token 2022 launchpad</a>
   - You can launch token 2022.
@@ -268,7 +268,7 @@ Solana token 2022 launchpad ^_____^
 <h3><u><strong><i>BrewLabs</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/gurujustin/myworks/assets/brewlabs.png">
+<img align="right" width="300px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/brewlabs.png">
 
 Your All-in-One Web3 Powerhouse
 
@@ -286,7 +286,7 @@ Our cutting-edge platform brings together a suite of decentralized tools and ser
 <h3><u><strong><i>DorkPlay</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
-<img align="right" height = "150px" src="https://github.com/gurujustin/myworks/assets/dorkplay.png" >
+<img align="right" height = "150px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/dorkplay.png" >
   
 You can stake DORK to earn more DORK. It's simple staking on EVM network.
   
@@ -300,7 +300,7 @@ You can stake DORK to earn more DORK. It's simple staking on EVM network.
 <h3><u><strong><i>Duckstail</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
-<img align="right" height = "220x" src="https://github.com/gurujustin/myworks/assets/duckstail.png" >
+<img align="right" height = "220x" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/duckstail.png" >
 
 DEX & token launchpad on EVM networks.
   
