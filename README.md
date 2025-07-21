@@ -208,7 +208,7 @@ to access the DUNK token distribution. The NFT staking mechanism allows the DUNK
 
 Dex and Launch lab using raydium launch lab sdk like letsbonk fun.
 
-- Original Link: <a href="https://sherex-fun-interface.vercel.app/" target="_blank">Sherex.fun</a>
+- Original Link: <a href="https://sherex-fun-interface.vercel.app/" target="_blank">Sherex.Fun</a>
 
 - Github repo: <a href="https://github.com/relforce/sherex-fun-interface" target="_blank">FE code</a>
 
