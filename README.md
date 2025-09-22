@@ -43,6 +43,22 @@ I used lifi protocol for simple bridge. I can make cross chain swap using lifi, 
   - frontend repo: <a href="https://github.com/gurujustin/bridge-aggregator">Bridge-Frontend</a>
 
 
+<h3><u><strong><i>Blitz Fan</i></strong></u> &nbsp;(Solana)</h3>
+<hr />
+
+<img align="right" height = "250px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/blitz.png" >
+
+This is the prediction markets for anything you can possibly imagine on Solana. Wager on sports, politics, pop culture, crypto prices, or anything you can possibly imagine, all settled securely and transparently onchain. On Blitz, you can start your own PVP prediction market by posting a bet with your chosen terms and stakes, giving you total control over what you want to predict and how. Or you can browse open markets from other users and take the other side. Every market makes the terms and payouts clear up front, and your stake is always protected by secure multisig onchain settlement.
+
+- Original Link: <a href="https://blitz.fan/" target="_blank">Blitz Fan</a>
+  - You can Play it with USDC on Solana
+  - You can create or join on any prediction market.
+
+
+- Github repo: 
+  - Game FE: <a href="https://github.com/gurujustin/blitz-jackpot-frontend" target="_blank">FE code</a>
+
+ 
 <h3><u><strong><i>Valhalla Fun</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -189,7 +205,7 @@ It's a Decentralized, Multichain Yield Optimizer that allows its users to earn c
 <img align="right" width = "350px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/hodlx.png" >
 
 30% (30 Million) of the total DUNK token supply is allocated to the Club Key NFTs, which act as the primary investment into the Seattle SuperKongs Club. In return for the early investment into the SuperKongs, Club Key NFT holders are given a majority percentage of the DUNK token supply. The Club Key NFTs must be staked
-to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders over time
+to access the DUNK token distribution. The NFT staking mechanism allows the DUNK tokens to be vested to holders  over time
 
 - Original Link: <a href="https://hodlx-frontend-test.vercel.app/swap" target="_blank">Hodlx</a>
 
