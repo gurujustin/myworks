@@ -201,12 +201,12 @@ to access the DUNK token distribution. The NFT staking mechanism allows the DUNK
   - <a href="https://t.me/hodlinvestorgroup" target="_blank"> Hodl telegram </a>
 
 
-<h3><u><strong><i>Sherex Fun</i></strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Riser Fun</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" height = "180px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/riser.png" >
 
-Dex and Launch lab using raydium launch lab sdk like letsbonk fun.
+Dex and Launch lab using raydium launch lab sdk like letsbonk fun. At riser.fun, we're excited to share 20% of trading fees with creators—that's 4× more than another leading platform!
 
 - Original Link: <a href="https://riser.fun/" target="_blank">Riser.Fun</a>
 
