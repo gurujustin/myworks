@@ -204,13 +204,13 @@ to access the DUNK token distribution. The NFT staking mechanism allows the DUNK
 <h3><u><strong><i>Sherex Fun</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" height = "180px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/sherex.png" >
+<img align="right" height = "180px" src="https://raw.githubusercontent.com/gurujustin/myworks/refs/heads/main/assets/riser.png" >
 
 Dex and Launch lab using raydium launch lab sdk like letsbonk fun.
 
-- Original Link: <a href="https://sherex-fun-interface.vercel.app/" target="_blank">Sherex.Fun</a>
+- Original Link: <a href="https://riser.fun/" target="_blank">Riser.Fun</a>
 
-- Github repo: <a href="https://github.com/relforce/sherex-fun-interface" target="_blank">FE code</a>
+- Github repo: <a href="https://github.com/gurujustin/riser.fun" target="_blank">FE code</a>
 
 <h3><u><strong><i>Honey Finance</i></strong></u> &nbsp;(Avalanche/Solana)</h3>
 <hr />
